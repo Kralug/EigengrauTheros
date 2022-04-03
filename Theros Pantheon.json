@@ -1,0 +1,1907 @@
+{
+  "name":"Theros",
+  "description":"A pantheon of fifteen gods guides religious life on Theros. From the sun and agriculture to death and passage into the Underworld, the gods oversee the forces of nature and the most important aspects of mortal life. These gods are quite real to the people of Theros, who see them moving across the sky at night and sometimes encounter them face to face. Thus, most people perform rituals and devotions that honor various gods, hoping to win their favor and stave off their wrath. They tell and retell the stories of the gods' deeds—even as they watch those stories continue to play out in the vastness of the night sky.",
+  "followers":{
+    "description":"",
+    "favouredWeapon":"",
+    "holyDays":{
+      "title":"Holy Days",
+      "children":[]
+    }
+  },
+  "gods":[
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Heliod",
+      "key":"Heliod",
+      "status":"alive",
+      "titles":[
+        "God of the Sun",
+        "Ruler of the Gods"
+      ],
+      "aliases":[],
+      "rank":"Greater Diety",
+      "description":"Heliod is the radiant god of the sun. According to myth, he ensures that the sun rises every day to provide light and warmth to the world. Every inhabitant of Theros acknowledges his dominant presence, and nearly everyone at least pays lip service to the idea of giving him worship and honor.",
+      "appearance":"Heliod has appeared to mortals in a variety of forms, but he prefers the appearance of a sun-bronzed male human in his forties, dressed in a flowing tunic of golden cloth. His profile is noble, highlighted by a strong chin and a short beard, and he boasts the broad chest of a perfectly fit athlete. His hair is glossy black, and his head is crowned with a golden wreath. He is also fond of appearing as a brilliant white pegasus or a radiant golden stag. In any guise, he looks lit by the sun, even when he travels across the night sky.",
+      "history":{
+        "title":"History"
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "the sun",
+        "faithfulness",
+        "morality",
+        "virtue",
+        "honor"
+      ],
+      "gender":"man",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "light"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Lawful Good",
+      "symbol":"Laurel crown",
+      "combat":{},
+      "probabilityWeightings":{
+        "politicalIdeology":{
+          "autocracy":5,
+          "oligarchy":3
+        },
+        "politicalSource":{
+          "absolute monarchy":6,
+          "constitutional monarchy":3
+        },
+        "race":{
+          "human":20,
+          "half-elf":5
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[
+          {
+            "title":"Khrusor, Spear of Heliod",
+            "description":"Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it's typically so they can perform some great work in his name or as a test of their worthiness."
+          }
+        ]
+      },
+      "realm":"The Nyx",
+      "followers":{
+        "description":"The brilliance of Heliod's sun is impossible to ignore. Thus, virtually everyone on Theros pays at least grudging respect to the sun god in forms of worship that range from simple gestures to days-long celebrations.",
+        "favouredWeapon":"spear",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":70,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[
+        ],
+        "plants":[
+        ],
+        "monsters":[],
+        "gems":[],
+        "colours":[
+          "white"
+        ],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[
+          {
+            "title":"Oaths",
+            "description":"Carrying out punishment on a fugitive from justice. Exacting vengeance for a significant wrong done to you. Defending a polis from attacking monsters. Building or restoring a temple to Heliod."
+          }
+        ]
+      },
+      "heresies":{
+        "title":"heresies",
+        "description":"Breaking an explicit promise or oath. Violating any just law. Putting others at risk through your own cowardice.",
+        "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Erebos",
+      "key":"Erebos",
+      "status":"alive",
+      "aliases":[
+      ],
+      "titles":[
+        "God of the Dead"
+      ],
+      "rank":"Greater Diety",
+      "description":"Erebos is the god of death and the Underworld, lord of all that has ever lived. He presides over the bitterness, envy, and eventual acceptance of those who suffer misfortune. His hoarding of both souls and the treasures the dead carry into the Underworld see him worshiped by those who desire to collect and keep wealth.",
+      "appearance":"Erebos most frequently appears as a slender, gray-skinned humanoid with two large, outward-curving horns, wielding an impossibly long black whip. He also appears in the form of a black asp, a cloud of choking smoke, or an animated golden idol.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "the dead",
+        "the underworld",
+        "souls of the damned"
+      ],
+      "gender":"man",
+      "shape":"half-human",
+      "race":"god",
+      "domains":[
+        "death",
+        "trickery"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral Evil",
+      "symbol":"Serene face",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "primitivism":3
+        },
+        "politicalIdeology":{
+          "autocracy":8,
+          "oligarchy":5
+        },
+        "politicalSource":{
+          "absolute monarchy":5,
+          "constitutional monarchy":5
+        },
+        "race":{
+          "human":20,
+          "half-elf":5
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[
+          {
+            "title":"Mastix, Whip of Erebos",
+            "description":"Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod."
+          }
+        ]
+      },
+      "realm":"The Underworld, the place where all souls one day end up.",
+      "followers":{
+        "description":"To many mortals, Erebos is primarily concerned not with death, but with gold. Most of his followers downplay his association with death and misfortune, instead praying to him for material wealth. Others pray to him because they want to be more accepting of their misfortune. These individuals see themselves as beyond hope of improving their lot in life, asking only that Erebos grant them the strength to endure until they enter his realm at their predestined time.",
+        "adherents":[],
+        "favouredWeapon":"whip",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[
+          "purple"],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Convincing a group of people to accept misfortune. Easing someone's death or assisting with funeral arrangements. Retrieving a prominent figure's eidolon or Returned form. Thwarting the schemes of Heliod"}]
+      },
+      "heresies":{
+        "title":"heresies",
+        "description": "Saving a life without securing compensation for Erebos. Forsaking your duties for personal gain or pleasure. Allowing a soul to escape the Underworld.",
+        "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[
+        
+        ]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[ {
+          "title":"Heliod",
+          "description":"Erebos loathes Heliod, who banished him to the Underworld eons ago, forever severing him from the world of life and light. Erebos takes particular delight in profaning Heliod's temples, defiling the raiment of his priests, slaughtering his worshipers, and claiming the souls of his champions. Erebos believes that Heliod will one day challenge him for control of the Underworld. He looks forward to that day, certain that his lesser brother can't possibly prevail within Erebos's own territory."
+        }]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Thassa",
+      "key":"Thassa",
+      "status":"alive",
+      "aliases":[],
+      "equivalent":[],
+      "titles":[
+        "God of the Sea"
+      ],
+      "rank":"Greater Diety",
+      "description":"Thassa is the god of the sea, aquatic creatures, and the unknown depths. She also holds sway over less tangible concepts such as ancient knowledge, long voyages, and gradual change.",
+      "appearance":"Thassa usually appears to mortals in the form of a female triton-like being with octopus-tentacle hair and a crown of crab legs. She seldom adopts the same size as her followers, preferring to be seen from a distance as she towers over the ocean. When she moves closer to the view of mortals, she takes many other forms, often shifting from one to another: a giant squid, an ocean storm, a school of sharks, a fog bank, or a crab, her favored animal. She sometimes speaks out of the ocean itself, in droplets hissing across the surface of the waves.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "the sea",
+        "aquatic creatures",
+        "the unknown dephts",
+        "ancient knowledge",
+        "long voyages",
+        "gradual change"
+      ],
+      "gender":"woman",
+      "shape":"triton",
+      "race":"god",
+      "domains":[
+        "knowledge",
+        "tempest"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral",
+      "symbol":"Waves",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "capitalism":4
+        },
+        "politicalIdeology":{
+          "kleptocracy":5
+        },
+        "politicalSource":{},
+        "race":{
+          "dwarf":20,
+          "tiefling":30
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[
+          {
+            "title":"Dekella, Bident of Thassa",
+            "description":"Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities."
+          }
+        ]
+      },
+      "realm":"The Ocean",
+      "followers":{
+        "description":"Most of Thassa's dedicated worshipers are tritons, and the vast majority of tritons are wholly devoted to Thassa. Tritons spend much of their lives in Thassa's realm, with their god omnipresent. They weave prayers to Thassa into nearly everything they do.",
+        "adherents":[ ],
+        "favouredWeapon":"Trident",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":90,
+        "merciful":-85,
+        "chaste":-20
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Supporting those who would reform or overturn institutions. Preventing cataclysmic change. Offering a treasure to the sea. Defending or maintaining a temple to Thassa"}]
+      },
+      "heresies":{
+        "title":"heresies",
+        "description": "Trying to keep a secret from Thassa. Using magic to calm the sea's fury. Upholding an institution not devoted to Thassa. Bowing to the desires or demands of another god",
+        "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Purphoros",
+      "key":"Purphoros",
+      "status":"alive",
+      "aliases":[],
+      "equivalent":[],
+      "titles":[
+        "God of the Forge"
+      ],
+      "rank":"greater deity",
+      "description":"Purphoros is the god of the forge, the restless earth, and fire. He rules the raw creative force that infuses sapient minds. Purphoros is also the god of artisans, obsession, and the cycle of creation and destruction.",
+      "appearance":"Purphoros's preferred form is that of a muscular man whose coal-hued skin is mostly covered in mutable organic bronze. He might also appear in the form of a fiery phoenix or a bull made of cooling lava, and for that reason, both of those creatures are associated with him. When angered, he might appear as an enormous mass of lava, a blazing fire, or a volcanic eruption. Mortals who see Purphoros in one of those forms seldom live to tell about it.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "forge",
+        "restless earth",
+        "crafting",
+        "artisans",
+        "obsession",
+        "destruction",
+        "fire"
+      ],
+      "gender":"man",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "forge",
+        "knowledge"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Chaotic neutral",
+      "symbol":"Double crest",
+      "combat":{
+        "title":"Combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "syndicalism":4,
+          "primitivism":8
+        },
+        "politicalIdeology":{
+          "kleptocracy":4,
+          "magocracy":3
+        },
+        "politicalSource":{},
+        "race":{
+          "halfling":20,
+          "tiefling":15
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[
+          {
+            "title":"Akmon, Hammer of Purphoros",
+            "description":"Purphoros's hammer works wonders and disasters, the god of the forge using it to craft ground-breaking marvels and dangerous inventions in equal measure. Purphoros rarely bestows Akmon on mortals but occasionally leaves it unattended at his forge in Mount Velus. When Purphoros does permit a mortal to use the hammer, it's usually so they might bring an important work into being, wreck a force of destruction, or forge something remarkable somewhere the god isn't welcome."
+          }
+        ]
+      },
+      "realm":null,
+      "followers":{
+        "description":"Purphoros holds dominion over everything that springs from mortal ingenuity. Most artisans say a small prayer to him upon beginning or completing the construction of nearly anything, from swords to fortresses to ships.",
+        "adherents":[],
+        "favouredWeapon":"hammer",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":30,
+        "merciful":-85,
+        "chaste":-100
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Fighting against those who would rule over others. Taking decisive action on impulse. Destroying something that has outlived its usefulness. Creating something wondrous in Purphoros's name."}] 
+      },
+      "heresies":{
+        "title":"heresies",
+        "description": "Following an unjust law despite your misgivings. Creating something shoddy or flawed. Backing down from a fight or a contest.",
+        "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"Curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Nylea",
+      "key":"Nylea",
+      "status":"alive",
+      "aliases":[],
+      "equivalent":[],
+      "titles":["Goddess of the Hunt"],
+      "rank":"Greater Diety",
+      "description":"Nylea is the wild, carefree god of the hunt. She claims dominion over the whole of the natural world, particularly hunger and predation, the seasons, metamorphosis and rebirth, and the forest.",
+      "appearance":"Nylea usually appears as a green-skinned dryad with woody extremities. Her hair is made of vines and leaves that change with the seasons. She might also appear as a majestic specimen of any animal, most frequently a lynx or a wolf. When she desires stealth or solitude, she might take the form of a tree, usually an oak or an olive.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "hunting",
+        "the wilderness",
+        "wild animals",
+        "the seasons",
+        "metamorphosis",
+        "rebirth",
+        "the forest"
+      ],
+      "gender":"woman",
+      "shape":"dryad",
+      "race":"god",
+      "domains":[
+        "nature"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral Good",
+      "symbol":"Four arrows",
+      "combat":{
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":2,
+          "primitivism":6
+        },
+        "politicalIdeology":{
+          "meritocracy":4
+        },
+        "politicalSource":{
+          "anarchy":2
+        },
+        "race":{
+          "elf":40,
+          "half-elf":20,
+          "halfling":15
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[
+          {
+            "title":"Ephixis, Bow of Nylea",
+            "description":"Nylea wields the shortbow Ephixis, the bow whose arrows herald the turning of the seasons. Nylea is quick to let her favored followers borrow her bow, particularly when they intend to use it to perform great deeds, put an end to foul creatures, or cast down the arrogant."
+          }
+        ]
+      },
+      "realm":"forests",
+      "followers":{
+        "description":"Mortals all over Theros pray to Nylea when they rely on hunting or nature's whims for their livelihood. Her most ardent followers are satyrs, centaurs, humans (particularly those who live in Setessa and in the wilds), and nymphs of all kinds, especially dryads. Few leonin worship any of the gods, but of those who do, many favor Nylea with their prayers.",
+        "adherents":[],
+        "favouredWeapon":"bow",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":100
+      },
+      "associations":{
+        "avatars":[],
+        "animals":["lynx","Wolf"],
+        "plants":[],
+        "monsters":[],
+        "places":[
+          "forests"
+        ],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Healing a sick or injured wild animal. Stopping those who hunt for sport or profit. Proving your worth in a contest of archery. Slaying an aberration, a fiend, or an undead."}]
+        },
+      "heresies":{
+        "title":"heresies",
+        "description": "Killing an animal for any reason other than necessity. Dedicating a building or making a sacrifice to any god, including Nylea. Protecting a city or farm from natural dangers.",
+        "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"Curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Athreos",
+      "key":"Athreos",
+      "status":"alive",
+      "aliases":[
+        "the River Guide"
+      ],
+      "titles":[
+        "God of Passage"
+      ],
+      "rank":"Diety",
+      "description":"All mortals are destined to face Athreos, the River Guide, when their lives come to an end. The god of passage ferries the dead across the Tartyx River, conveying each mortal soul to its destiny in the Underworld. For most people, Athreos embodies the greatest mysteries of existence—the terror and wonder of life's last moment and the revelation of one's ultimate fate in the afterlife. Athreos is no judge, though. The veiled, silent god undergoes no deliberations and makes no exceptions. The River Guide reads the truth of each soul and bears it unfailingly to its proper place in the Underworld. There is no haggling and no sympathy on Athreos's skiff, the god having heard and denied every conceivable mortal plea.",
+      "appearance":"Athreos appears as a gaunt figure cloaked in ragged robes and a collection of golden masks. What little can be seen of his body is unsettling, its gray flesh stretched thin over a barely human skeleton. The River Guide is never without his ancient staff, Katabasis, which he transforms into the ferryboat he uses to ply the Rivers That Ring the World. Though the deity's shrouded form gives no clue, many mortals consider Athreos to be male, but the River Guide cares for terms or labels no more than any other force of nature. Athreos can change shape but rarely, if ever, takes on other forms.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "passage",
+        "the cycle of life",
+        "existance",
+        "the afterlife"
+      ],
+      "gender":"man",
+      "shape":"spirit",
+      "race":"god",
+      "domains":[
+        "death",
+        "grave"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Lawful Evil",
+      "symbol":"Crescent moon",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3
+        },
+        "politicalIdeology":{
+          "meritocracy":5,
+          "sophocracy":5,
+          "theocracy":3
+        },
+        "politicalSource":{},
+        "race":{
+          "halfling":20,
+          "human":5
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[]
+      },
+      "realm":"Tartyx River",
+      "followers":{
+        "description":"Most funeral traditions include small offerings and words of reverence to Athreos. Predominant among these traditions is burying or burning the dead with a clay funerary mask, to frame the identity of the dead for Athreos, and with at least one coin, so a soul might pay Athreos to ferry them to the Underworld. Some people are laid to rest with large amounts of grave goods. Memorial practices vary widely by culture, from tearful, somber affairs to lively celebrations. These rituals serve more as catharsis for the living than as meaningful boons to Athreos, though. The River Guide cares only for the single coin he's owed by any who board his skiff.",
+        "adherents":[],
+        "favouredWeapon":"scythe",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Providing coins and overseeing burial rites for those slain during a tragedy. Ensuring that the deeds and knowledge of someone who has died are preserved. Slaying a Returned and its associated eidolon."}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Denying a dying person their final rites. Removing wealth from a corpse or defiling a tomb. Aiding those who seek to escape from the Underworld, or who already have",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Ephara",
+      "key":"Ephara",
+      "status":"alive",
+      "aliases":[],
+      "equivalent":[],
+      "titles":[
+        "Godess of the Polis"],
+      "rank":"Diety",
+      "description":"As god of the polis, Ephara sees herself as the founder of civilization. She watches over cities, protecting them from outside threats. She is credited with establishing the first code of law, which Meletis has preserved and the other poleis have imitated. Even more important, she helps cities reach their highest potential, becoming centers of scholarship, industry, and art.",
+      "appearance":"Ephara appears as a huge animated statue wearing a stone crown, resembling the capital of a column. When she chooses to walk about her cities at human scale, she often takes on the form of a human woman. In either form, she is always dressed in blue and white, and her expression is usually serious, but not unkind. She often carries a large urn on one shoulder, with the dark, star-studded sky of Nyx pouring from it and dissolving into mist as it hits the ground.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "civilization",
+        "code of law",
+        "law",
+        "scholarship",
+        "industry",
+        "art"
+],
+      "gender":"woman",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "knowledge",
+        "light"],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Lawful Neutral",
+      "symbol":[
+        "Urn pouring water"],
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "politicalIdeology":{
+          "militocracy":5,
+          "meritocracy":5,
+          "autocracy":1
+        },
+        "politicalSource":{
+          "absolute monarchy":5,
+          "constitutional monarchy":3
+        },
+        "race":{
+          "human":10,
+          "dwarf":15,
+          "dragonborn":15
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[]
+      },
+      "realm":"The Nyx",
+      "followers":{
+        "description":"To an extent, Ephara's devout show their faith by going about their lives and contributing to society. Midday services at Ephara's temples often feature a brief prayer, followed by a longer talk from an industrial or civic leader on a topic of general interest. Attendants often bring meals to eat while on a break from their jobs.",
+        "adherents":[],
+        "favouredWeapon":null,
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":80,
+        "merciful":-80,
+        "chaste":100
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Defending a city from a major threat. Defeating a tyrant who threatens a city's freedom. Creating a masterwork, such as a building or a poem"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Betraying one's trust to commit acts of corruption or tyranny. Destroying a civic institution or sowing chaos within a city. Willfully breaking just laws for personal gain",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[
+        {
+          "name":"zoos",
+          "relationship":"father"
+        }
+      ],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Iroas",
+      "key":"Iroas",
+      "status":"alive",
+      "aliases":[],
+      "equivalent":[],
+      "titles":[
+        "God of Victory"],
+      "rank":"Deity",
+      "description":"Iroas is the steadfast god of honor and victory in war. When soldiers march to battle, his voice is the thunder of their footsteps and the crash of spear on shield. Soldiers, mercenaries, and athletes all pray for Iroas's favor in securing victory. Common folk pray to Iroas for courage and fortitude in times of struggle, for his is the battle nobly fought and won.",
+      "appearance":"Iroas most often appears as a powerfully built centaur with a bull's body rather than a horse's, clad in gleaming armor and wielding a spear and shield. He speaks in a booming baritone that projects power, confidence, and courage. He has been known to appear as a burly soldier or a mighty bull before his followers. Whatever form he chooses, Iroas carries himself with precision and majesty at all times and doesn't tolerate disrespect or undue informality from those who would deal with him.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "war",
+        "courage",
+        "victory",
+        "athletics",
+        "glory",
+        "warriors",
+        "fighting"
+],
+      "gender":"man",
+      "shape":"centaur",
+      "race":"god",
+      "domains":[
+        "war"],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Chaotic Good",
+      "symbol":"Four-winged helmet",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":2,
+          "syndicalism":3
+        },
+        "politicalIdeology":{
+          "kleptocracy":5,
+          "oligarchy":5,
+          "autocracy":1
+        },
+        "politicalSource":{},
+        "race":{
+          "halfling":50,
+          "tiefling":30,
+          "goblin":15
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"Iroas is interested not in pretty words, but in great deeds. The faithful of Iroas show their piety by comporting themselves well in contests of athleticism or skill. Swearing an oath to win a battle in Iroas's name and failing to do so is a great shame upon a warrior, thus such a promise is never uttered lightly.",
+        "adherents":[],
+        "favouredWeapon":null,
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":20,
+        "forgiving":25,
+        "chaste":10
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Achieving a great victory. Overcoming long odds honorably. Defeating a skilled foe in single combat. Winning a great feat of strength or skill."}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Showing cowardice in battle. Besting an honorable foe through deceit. Harming innocents or noncombatants",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Karametra",
+      "key":"Karametra",
+      "status":"alive",
+      "aliases":[],
+      "titles":[
+        "Godess of Harvests"],
+      "rank":"Deity",
+      "description":"Karametra is recognized as the serene, maternal god of the harvest, her arms spread wide as she offers bounty to her worshipers or cradles communities in her embrace. Almost every human settlement contains at least a modest shrine to solicit her favor, and she is closely associated with Setessa, the center of her worship.",
+      "appearance":"Karametra appears to mortals as a motherly figure with hair made of ordered rows of leaves that shroud her eyes from view. She is always shown in art (and often seen in Nyx) seated on her throne, which is formed from a tangle of grape vines growing out of a collection of jugs and amphorae that surround her. An elaborately carved wooden canopy extends above her, and a giant sable—her faithful companion—curls around the base of the throne at her feet. In one hand, she holds a harvester's scythe.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "agriculture",
+        "grain and bread",
+        "the harvest",
+        "fertility",
+        "balance of nature"],
+      "gender":"woman",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "life",
+        "nature"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral Good",
+      "symbol":"Cornucopia",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "communism":5,
+          "syndicalism":3
+        },
+        "politicalIdeology":{
+          "magocracy":5,
+          "theocracy":4,
+          "oligarchy":4
+        },
+        "politicalSource":{},
+        "race":{
+          "dwarf":20,
+          "dragonborn":15,
+          "half-elf":15,
+          "elf":15,
+          "tiefling":15
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"The earth's fertility is essential for mortal life to continue. Those who live in the modern poleis might not be as aware of that fact as those who farm their own food, but even they long for children, know the pinch of hunger, and feel the turn of the seasons.",
+        "adherents":[],
+        "favouredWeapon":"Sickle",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Turning a wild field into fertile cropland. Feeding those who are starving. Defending a farm from monsters. Building or restoring a temple to Karametra."}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Destroying a settlement's food source. Releasing and scattering domestic animals. Diverting a water source needed for irrigation.Starting a fire that threatens a settlement",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Keranos",
+      "key":"Keranos",
+      "status":"alive",
+      "aliases":[],
+      "titles":[
+        "God of Storms"],
+      "rank":"Diety",
+      "description":"Keranos is the god of storms and wisdom. Merciless and impatient, Keranos is equally likely to strike out at mortals with a bolt of inspiration or a blast of lightning. To revere Keranos is to exult in the power of wisdom, clarity of purpose, and the fury of the storm. He is favored by tinkerers, inventors, and sailors as well as those seeking solutions to intractable problems. He doesn't tolerate the company (or the worship) of fools, and he despises vapidity and indecision.",
+      "appearance":"Keranos rarely appears directly to mortals, preferring to communicate through an epiphany or a crashing bolt of lightning. When he does deign to manifest in the mortal world, Keranos prefers the form of a stout, bearded, male human wearing a purple loincloth girdled in a mithral chain belt with a clasp in the form of a dragon's skull. His bearing is upright and stern, with a clipped, brusque way of speaking. Particularly clever plans and observations bring a hint of a smile to his face. When interacting with mortals, Keranos sometimes appears in the form of a great horned owl with lightning strikes flashing in its eyes.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "storms",
+        "wisdom",
+        "clarity",
+        "purpose",
+        "intelligence",
+        "impatience"
+      ],
+      "gender":"man",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "knowledge",
+        "tempest"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Chaotic Good",
+      "symbol":"Blue eye",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "capitalism":5
+        },
+        "politicalIdeology":{
+          "kleptocracy":5,
+          "meritocracy":5,
+          "technocracy":8
+        },
+        "politicalSource":{},
+        "race":{
+          "halfling":20,
+          "tiefling":15
+        }
+      },
+      "possessions":{
+        "title":"Possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"Keranos's name is often invoked by those amid a storm who seek safety, or by someone who is faced with a particularly difficult problem. Only the foolhardy call out to Keranos frivolously or in jest, since he might well smite the offender with a bolt from the blue.",
+        "adherents":[],
+        "favouredWeapon":"lightning",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Solving a challenging riddle or puzzle. Smiting the unwise and foolish in Keranos's name. Helping a polis successfully plan for or adapt to a threat. Building or restoring a temple to Keranos."}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Jeopardizing others through rash or foolish actions. Willingly subverting or impeding a wise course of action. Failing to plan appropriately for a challenge. Giving in to wanton fury and destruction.",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Klothys",
+      "key":"Klothys",
+      "status":"alive",
+      "titles":[
+        "Goddess of Destiny" ],
+      "aliases":[],
+      "rank":"Deity",
+      "description":"Believed to have sprung into existence during Theros's earliest days, Klothys is the god of destiny and, along with Kruphix, one of the plane's original deities. She oversees the order of the cosmos, ensuring that all things remain in their proper place, knowing how easily the cosmic balance could be undone if she were not vigilant. On the heels of a near-catastrophic upset of the cosmic order—the rise to godhood and subsequent defeat of the satyr Xenagos—Klothys has emerged from the Underworld for the first time in mortal memory to untangle the strands of destiny and set the world right.",
+      "appearance":"Klothys typically appears as a woman with six curling horns and an impossibly long mane of pale hair that cascades around her horns, drapes over her eyes, and spools into her spear-like weapon and the various other spindles she carries.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "destiny",
+        "order",
+        "balance",
+        "truth"],
+      "gender":"woman",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "knowledge",
+        "war"],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral",
+      "symbol":[
+        "Drop spindle"],
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3
+        },
+        "politicalIdeology":{
+          "theocracy":4,
+          "oligarchy":4,
+          "autocracy":5
+        },
+        "race":{
+          "human":20,
+          "half-elf":15,
+          "tiefling":15
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":"Cosmos",
+      "followers":{
+        "description":"Klothys doesn't trace her origins to mortal devotion, and she has languished in obscurity for almost the whole of human history. Unlike the other gods (except Kruphix), she doesn't need worship to sustain or empower her, and she doesn't seek out reverence or demand it. By and large, mortals are irrelevant to her, except insofar as they have played a role in tangling the strands of destiny by defying nature's order.",
+        "adherents":[],
+        "favouredWeapon":"two swords",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-20
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Defeating a creature that has stepped out of its place. Repairing a significant wound dealt to destiny by the gods' ambitions. Teaching people about Klothys, her nature, and her return"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Undoing a deserved punishment or curse suffered by another creature. Willfully destroying a natural wonder. Assisting a creature in undermining the natural order or exploiting destiny",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Kruphix",
+      "key":"Kruphix",
+      "status":"alive",
+      "titles":[
+        "God of Horizons"],
+      "aliases":[],
+      "rank":"Deity",
+      "description":"Kruphix is the enigmatic god of mysteries, horizons, and the passage of time. His followers claim that he knows not only everything that is known at present, but everything that has ever been known by anyone.",
+      "appearance":"Kruphix's true form is more abstract than that of any of the other gods. He appears only in star-filled silhouette, usually as a hooded, four-armed figure of indeterminate species and gender. Two of the stars in his body often shine brightly, suggesting eyes. Kruphix's starry silhouette sometimes takes the form of a bird or a whale.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "children":[]
+      },
+      "portfolios":[
+        "Horizons",
+        "passage of time",
+        "eternal knowledge",
+        "visions"
+      ],
+      "gender":"man",
+      "shape":"abstract",
+      "race":"god",
+      "domains":[
+        "knowledge",
+        "trickery"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral",
+      "symbol":"Eight-pointed star",
+      "combat":{
+        "title":"Combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3,
+          "primitivism":8
+        },
+        "politicalIdeology":{
+          "militocracy":9,
+          "oligarchy":7,
+          "autocracy":8
+        },
+        "politicalSource":{
+          "anarchy":8
+        },
+        "race":{
+          "half-orc":40,
+          "orc":50,
+          "tiefling":20,
+          "goblin":30
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":"the Weave of Time",
+      "followers":{
+        "description":"Many pray to Kruphix when they need to find something lost, but few dedicate themselves to his worship. Cults devoted to Kruphix fiercely guard their secrets, and their initiates refrain from drawing attention to themselves. Some followers and champions of Kruphix travel the world in secret, searching for hidden truths. Many use secret signals to enable them to find safe lodging with other worshipers nearly anywhere.",
+        "adherents":[],
+        "favouredWeapon":null,
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Keeping a dangerous secret despite personal cost. Revealing a critical truth at an important moment. Mediating a major dispute or conflict. Aiding the weak or impeding the strong"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Revealing a secret that should remain unknown. Selfishly refusing to share information. Showing favoritism toward any other god or group. Furthering the aims of another god in defiance of Kruphix's will",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Mogis",
+      "key":"Mogis",
+      "status":"alive",
+      "aliases":[
+        "the Blood Bull"
+      ],
+      "titles":[
+        "God of Slaughter"
+      ],
+      "rank":"Deity",
+      "description":"Mogis is the god of slaughter, violence, and war. He is hatred unrestrained, empathy denied, and mercy forgotten, an entity whose very presence incites mortals to violence. Soldiers fear succumbing to his blood lust lest they dishonor themselves, but the vengeful and forsaken call to him for the gift of his rage. He is the brother of Iroas, god of victory, and his antithesis in matters of warfare.",
+      "appearance":"Mogis cuts a terrifying figure, appearing as a four-horned minotaur of incredible size clad in spiked bronze armor and wielding a massive ebon greataxe. He doesn't debase himself by appearing in other guises to mortals—to behold him is to behold the cruelty of war personified. He hungers endlessly to defeat his brother Iroas in combat and thus become the sole avatar of war among mortals.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "war",
+        "violence",
+        "slaughter",
+        "bloodlust",
+        "rage",
+        "murder",
+        "destruction"
+      ],
+      "gender":"man",
+      "shape":"minotaur",
+      "race":"god",
+      "domains":[
+        "war"],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Chaotic Evil",
+      "symbol":"Four-horned bull's head",
+      "combat":{
+        "title":"Combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3,
+          "syndicalism":3,
+          "communism":2
+        },
+        "politicalIdeology":{
+          "meritocracy":4,
+          "sophocracy":4,
+          "oligarchy":4
+        },
+        "race":{
+          "elf":40,
+          "half-elf":15
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"Mogis exhorts his followers to channel their hatred and rage into ever greater acts of cruelty and violence. He demands actions over words, making his followers an active and dangerous lot. From the spurned lover thirsting for revenge to the blood-drenched warrior on the battlefield, all honor Mogis with the shedding of blood in anger.",
+        "favouredWeapon":"greataxe",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Defeating a champion of Iroas. Taking vengeance against a powerful foe. Burning a polis or a settlement to the ground. Desecrating a temple to Iroas as an offering to Mogis"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Failing to carry out a sworn vendetta. Publicly displaying weakness or compassion. Rejecting a duel or a challenge out of fear",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[
+        {
+          "name":"zoos",
+          "relationship":"brother"
+        }
+      ],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Pharika",
+      "key":"Pharika",
+      "status":"alive",
+      "titles":[
+        "Goddess of Affliction"],
+      "aliases":[],
+      "rank":"Deity",
+      "description":"Pharika is a god of affliction and medicine, alchemy and aging. In the earliest days of Theros, Pharika seeded the world with countless secret truths—mysteries of medicine, minerals with strange properties, nexuses of magic, and the like—which she hid among Nylea's wilds and the shadows of Erebos's Underworld, leaving clues where mortals might find them. It isn't altruism that drives her; she studies the innovation and suffering of mortals, deciphering in them ever greater mysteries as she treats Theros as her personal laboratory.",
+      "appearance":"Pharika typically takes the form of a green-skinned human woman with the lower body of a snake. Her hands are thickly scaled and a pair of bronze-scaled vipers seamlessly emerge from her chest. She is never without her kylix, a drinking cup within which she can produce virtually any medicine or toxin. When her aims require subtlety, Pharika often takes the form of a serpent or a medusa, or sometimes an aged human.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "affliction",
+        "medicine",
+        "disease",
+        "aging",
+        "sickness",
+        "alchemy",
+        "experiments",
+        "snakes"
+      ],
+      "gender":"woman",
+      "shape":"medusa",
+      "race":"god",
+      "domains":[
+        "death",
+        "knowledge",
+        "life"
+      ],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Neutral Evil",
+      "symbol":"Snakes",
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3,
+          "capitalism":6
+        },
+        "politicalIdeology":{
+          "technocracy":10,
+          "autocracy":5
+        },
+        "race":{
+          "dwarf":20,
+          "gnome":45
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"The diseased and the dying alike often make written entreaties to Pharika for a remedy. Prayers are written on scraps of paper or shards of pottery, sealed in small pots, and buried in bogs, leaving them as secrets for others to exhume years later. Many people pray to her before undergoing a medical procedure, picking herbs, or confronting a venomous animal. Nights of a waxing crescent moon (roughly the first week of each month, when a sliver of moon lingers in the early evening) are sacred to Pharika and are thought to be an auspicious time to harvest medicinal plants.",
+        "adherents":[],
+        "favouredWeapon":"poison",
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":-85,
+        "chaste":-80
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Creating a cure for a dangerous affliction. Defeating a powerful foe by using poison. Discovering or documenting an unknown people or a poorly understood creature. Building or restoring a temple to Pharika, or a site that glorifies serpentine creatures"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Destroying alchemical, medical, pathological, or similar research. Performing a notable act of healing without exacting a significant price. Slaying a medusa or serpent",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    },
+    {
+      "objectType":"deity",
+      "passageName":"DeityProfile",
+      "name":"Phenax",
+      "key":"Phenax",
+      "status":"alive",
+      "aliases":["masked patron"],
+      "equivalent":[],
+      "titles":[
+        "God of Deception"],
+      "rank":"Deity",
+      "description":"henax is the masked patron of lies and cheats. He is Heliod's ethical antithesis, governing the spheres of gambling, deception, and betrayal. Phenax was once a mortal who was trapped in the Underworld, but he learned how to forsake his identity to prevent Erebos from detecting what he was doing. He crossed back over the Rivers That Ring the World wrapped in the tattered cloak of Athreos, the River Guide, who ushers the dead to their final rest. Hidden by illusion as he was, neither Athreos nor Erebos could find Phenax and bring him back.",
+      "appearance":"Phenax is a shadowy and mysterious figure. When appearing before mortals, he prefers the form of a willowy humanoid with ashen gray skin, clad in elegant robes. He has also been known to appear in a variety of animal forms, including the shapes of asps, mockingbirds, or rats. Regardless of his shape, a mask forever conceals the blank face of the first Returned.",
+      "history":{
+        "title":"history",
+        "children":[]
+      },
+      "powers":{
+        "title":"powers",
+        "children":[]
+      },
+      "portfolios":[
+        "deception",
+        "gambling",
+        "lies",
+        "cheating",
+        "betrayal",
+        "masks",
+        "identity",
+        "theft"
+      ],
+      "gender":"woman",
+      "shape":"human",
+      "race":"god",
+      "domains":[
+        "trickery"],
+      "channelDivinity":{
+        "title":"Channel Divinity",
+        "children":[]
+      },
+      "alignment":"Chaotic Neutral",
+      "symbol":["Winged golden mask"],
+      "combat":{
+        "title":"combat",
+        "children":[]
+      },
+      "probabilityWeightings":{
+        "economicIdeology":{
+          "feudalism":3
+        },
+        "politicalIdeology":{
+          "meritocracy":2,
+          "oligarchy":4,
+          "autocracy":5
+        },
+        "race":{
+          "halfling":20,
+          "half-elf":15,
+          "elf":15
+        }
+      },
+      "possessions":{
+        "title":"possessions",
+        "children":[]
+      },
+      "realm":null,
+      "followers":{
+        "description":"Every lie is an homage to Phenax. Because his most devout followers are criminals and gamblers, his influence is keenly felt in gambling halls and dens of thieves. But everyone has their own reasons to stray from the truth at times, and thus, they also find small ways to seek Phenax's favor as they go about their daily lives.",
+        "adherents":[],
+        "favouredWeapon":null,
+        "holyDays":{
+          "title":"Holy Days",
+          "children":[]
+        }
+      },
+      "personality":{
+        "just":50,
+        "merciful":0,
+        "chaste":75
+      },
+      "associations":{
+        "avatars":[],
+        "animals":[],
+        "plants":[],
+        "monsters":[],
+        "gems":[],
+        "colours":[],
+        "miscellaneous":[]
+      },
+      "beliefs":{
+        "title":"beliefs",
+        "children":[{
+          "title":"Tenets",
+          "description":"Helping a fugitive escape justice. Pulling off a daring robbery. Obstruct champions of other gods. Building or restoring a temple to Phenax"}]
+        },
+        "heresies":{
+          "title":"heresies",
+          "description": "Forthrightly assisting lawgivers in their duties. Swearing and then honoring an oath.Bringing order in times of chaos",
+          "children":[]
+      },
+      "blessings":{
+        "title":"blessings",
+        "children":[]
+      },
+      "curses":{
+        "title":"curses",
+        "children":[]
+      },
+      "allies":{
+        "title":"allies",
+        "children":[]
+      },
+      "enemies":{
+        "title":"enemies",
+        "children":[]
+      },
+      "relationships":[],
+      "maxims":[
+        {
+          "title":""
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "author": "Wizards of the Coast (Theros)",
+    "contributors": ["Kralug"],
+    "license": "GNU GPLv3",
+    "repository": "https://github.com/Kralug/EigengrauTheros",
+    "version": 0.1,
+    "notes": "The initial version of the code. Expect issues. "
+  }
+}
